@@ -22,3 +22,7 @@ out
 .metadata
 .codepro
 .ant-targets-build.xml
+
+*.ipr
+*.releaseBackup
+release.properties
